@@ -56,12 +56,13 @@ app.config['MYSQL_DB'] = 'student_db'
 
 ---
 
-### 4. Run the Flask App
+## 4. Run the Flask App
+
 python3 app.py
 
 Open your browser and go to http://localhost:5000
 
-### 🌐 Live Deployment (Optional)
+## 🌐 Live Deployment (Optional)
 
 If hosted on EC2, visit:
 
